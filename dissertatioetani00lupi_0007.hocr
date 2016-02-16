@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dissertatioetani00lupi_0007.png"; bbox 0 0 2139 3524; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 593 1436 1378 1495">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 593 1436 1378 1495">
+     <span class='ocr_line' id='line_1_1' title="bbox 593 1436 1378 1495; baseline 0.004 -3"><span class='ocrx_word' id='word_1_1' title='bbox 593 1436 1378 1495; x_wconf 85' lang='lat' dir='ltr'>EPITAPHIUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 386 1567 1577 1668">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 386 1567 1577 1668">
+     <span class='ocr_line' id='line_1_2' title="bbox 386 1567 1577 1668; baseline 0.004 -8"><span class='ocrx_word' id='word_1_2' title='bbox 386 1567 884 1660; x_wconf 83' lang='lat' dir='ltr'><strong>SEVERAE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 932 1570 1577 1668; x_wconf 87' lang='lat' dir='ltr'>MARTYRIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 515 1719 1436 1788">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 515 1719 1436 1788">
+     <span class='ocr_line' id='line_1_3' title="bbox 515 1719 1436 1788; baseline 0.003 -16"><span class='ocrx_word' id='word_1_4' title='bbox 515 1719 1436 1788; x_wconf 73' lang='lat' dir='ltr'><strong>ILLUSTRATUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
